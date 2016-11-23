@@ -1,0 +1,76 @@
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\bin\Debug\project_Product.exe.config
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.csprojResolveAssemblyReference.cache
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.login.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.Properties.Resources.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.csproj.GenerateResource.Cache
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\bin\Debug\project_Product.exe
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\bin\Debug\project_Product.pdb
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.exe
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.pdb
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\bin\Debug\ar-EG\project_Product.resources.dll
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.ar-EG.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\ar-EG\project_Product.resources.dll
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Addproduct.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.magange_product.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.playPicture.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Catogory.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.REPORT.Report.resources
+C:\Users\UsersFiles\Desktop\vstudio\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.CUSTOMER.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\bin\Debug\project_Product.exe.config
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.exe
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.pdb
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\bin\Debug\project_Product.exe
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\bin\Debug\project_Product.pdb
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\bin\Debug\ar-EG\project_Product.resources.dll
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.csprojResolveAssemblyReference.cache
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Addproduct.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Catogory.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.CUSTOMER.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.login.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.magange_product.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.playPicture.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.Properties.Resources.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.REPORT.Report.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.ar-EG.resources
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\project_Product.csproj.GenerateResource.Cache
+C:\Users\UsersFiles\Desktop\project_Product\project_Product\obj\Debug\ar-EG\project_Product.resources.dll
+G:\Desktop folder\project_Product\project_Product\bin\Debug\project_Product.exe.config
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.exe
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.pdb
+G:\Desktop folder\project_Product\project_Product\bin\Debug\project_Product.exe
+G:\Desktop folder\project_Product\project_Product\bin\Debug\project_Product.pdb
+G:\Desktop folder\project_Product\project_Product\bin\Debug\ar-EG\project_Product.resources.dll
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.csprojResolveAssemblyReference.cache
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Addproduct.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Catogory.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.CUSTOMER.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.login.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.magange_product.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.playPicture.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.Properties.Resources.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.REPORT.Report.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.ar-EG.resources
+G:\Desktop folder\project_Product\project_Product\obj\Debug\project_Product.csproj.GenerateResource.Cache
+G:\Desktop folder\project_Product\project_Product\obj\Debug\ar-EG\project_Product.resources.dll
+G:\my projects\project_Product\project_Product\bin\Debug\project_Product.exe.config
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.exe
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.pdb
+G:\my projects\project_Product\project_Product\bin\Debug\project_Product.exe
+G:\my projects\project_Product\project_Product\bin\Debug\project_Product.pdb
+G:\my projects\project_Product\project_Product\bin\Debug\ar-EG\project_Product.resources.dll
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.csprojResolveAssemblyReference.cache
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Addproduct.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Catogory.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.CUSTOMER.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.login.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.magange_product.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.playPicture.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.Properties.Resources.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.REPORT.Report.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.presentation_layer.Main_menu.ar-EG.resources
+G:\my projects\project_Product\project_Product\obj\Debug\project_Product.csproj.GenerateResource.Cache
+G:\my projects\project_Product\project_Product\obj\Debug\ar-EG\project_Product.resources.dll
